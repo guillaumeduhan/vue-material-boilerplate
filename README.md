@@ -1,10 +1,10 @@
 # Vue Material Boilerplate
 
-![logo](https://repository-images.githubusercontent.com/217154004/4ab7f100-2e33-11ea-8e94-a8ffdf7cd506)
+![logo](https://repository-images.githubusercontent.com/250527608/b2469c80-702e-11ea-944b-09476c340a30)
 
 - Vue 2
 - Vue-CLI 3
-- Material
+- Vue-Material
 - Vuex
 - Vue-Router
 - HTML/Pug (switch branch)
