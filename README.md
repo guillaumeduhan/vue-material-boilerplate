@@ -17,7 +17,7 @@
 Clone project and enter in folder:
 
 ```
-cd vue-bootstrap-boilerplate
+cd vue-material-boilerplate
 ```
 
 Run npm install:
